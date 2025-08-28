@@ -24,4 +24,3 @@
 ![Certification Badge](./assets/certificat-02.jpg)
 
 [SOLOLEARN](https://www.sololearn.com/certificates/CC-H5NEDBR5)
-
